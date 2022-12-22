@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Hoon's develop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Linear"
+  bio              : "I am an **linear** person."
   location         : "Seoul"
-  email            : "fbckdgns3@naver.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
