@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Hoon's develop"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "changhoon" ##
+name                     : "changhoon"
 description              : "An amazing website."
 url                      : "https://Ryuchanghoon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
