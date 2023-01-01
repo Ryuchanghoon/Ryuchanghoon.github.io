@@ -1,3 +1,23 @@
+---
+layout: single
+title: 데이터 전처리(Data Pretreatment)
+---
+
+<br> 특정 데이터로 분석을 할 때, 정리가 잘 되어 있는 데이터를 받아와서 활용할 수 있으나, 현실은 그렇지 않은 경우가 많습니다.
+<br> 실무 데이터는 정리가 잘 되어있지 않으며, 오류 또한 포함하고 있는 경우가 많습니다. 이러한 값을 결측치(Missing Value)라고 합니다.
+<br>
+<br> 위와 같은 결측치(Missing Value)를 가지고 있는 데이터로 분석을 하게 되면, 결과가 왜곡되는 문제가 발생합니다.
+<br> 
+<br> 이러한 문제를 방지하기 위해 사전 처리 작업을 하게 되는데, 이러한 작업을 데이터 전처리(Data Pretreatment)라고 합니다.
+
+<br> 데이터 전처리(Data Pretreatment) 작업은, 크게 2단계를 거치게 됩니다.
+
+<br> 첫번째 단계는 pd.isna().sum()을 사용해서, 결측치(Missing Value)가 존재하는지 확인합니다.
+<br> 두번째 단계는 dropna()를 사용해서 결측치(Missing Value) 값을 제거해 줍니다.
+
+<br> 다음은 데이터 분석 전, 데이터 전처리(Data Pretreatment) 과정을 거치는 코드 입니다.
+
+
 ```python
 import pandas as pd
 import numpy as np
