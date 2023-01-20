@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 데이터프레임(DataFrame)
+title: 데이터 분석 1st(Data Analysis)
 ---
 
 
