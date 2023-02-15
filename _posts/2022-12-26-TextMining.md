@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "텍스트 마이닝(Text Mining)"
+categories: Data Analysis
 ---
 
 ![Text_mining_1](https://user-images.githubusercontent.com/107829554/209547920-f2759a40-29c2-40b0-8477-c653bbbf86c2.jpg)

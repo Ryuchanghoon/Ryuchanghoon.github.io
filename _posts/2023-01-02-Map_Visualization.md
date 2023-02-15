@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 지도 시각화(Map Visualization)
+categories: Data Analysis
 ---
 
 ![map1](https://user-images.githubusercontent.com/107829554/210232395-3c7833b5-8553-44f6-a74a-9da62bd765dd.jpg)

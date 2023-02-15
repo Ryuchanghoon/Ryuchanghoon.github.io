@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 데이터 분석 1st(Data Analysis)
+categories: Data Analysis
 ---
 
 
