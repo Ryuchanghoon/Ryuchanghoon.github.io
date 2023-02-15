@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 데이터 전처리(Data Pretreatment)
-categories: Data Analysis
+categories: Data-Analysis
 ---
 
 <br> 특정 데이터로 분석을 할 때, 정리가 잘 되어 있는 데이터를 받아와서 활용할 수 있으나, 현실은 그렇지 않은 경우가 많습니다.

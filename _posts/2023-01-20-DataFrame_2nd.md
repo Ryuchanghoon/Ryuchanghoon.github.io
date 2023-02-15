@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 데이터 분석 2nd(Data Analysis)
-categories: Data Analysis
+categories: Data-Analysis
 ---
 
 
